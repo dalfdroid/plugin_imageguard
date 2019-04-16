@@ -1,0 +1,7 @@
+{
+  "permissionsplugin": {
+    "supportsPkg" : ["*"],
+    "interposesOn": ["storage"],
+    "activateOnInstall" : false
+  }
+}
